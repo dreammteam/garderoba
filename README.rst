@@ -65,9 +65,9 @@ Nasz zespół
 ============
 ------------------------
 ::
-  Geniusz technologiczny – Patryk Antosz,
-  Odpowiedzialne za dokumentacje i aspekty estetyczne – Martyna Gargaś, Dominika Cieślak,
-  Świeży umysł – Martyna Hermann
+  - Geniusz technologiczny – Patryk Antosz
+  - Odpowiedzialne za dokumentacje i aspekty estetyczne – Martyna Gargaś Dominika Cieślak
+  - Świeży umysł – Martyna Hermann
 
 Kontakt
 ============
