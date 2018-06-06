@@ -70,8 +70,8 @@ Nasz zespół
 Kontakt
 ============
 
-  Facebook: DressCode - Garderoba
-  Telefon: 721 753 075
-  Mail: martynagargas3@o2.pl
+  1. Facebook: DressCode - Garderoba
+  2. Telefon: 721 753 075
+  3. Mail: martynagargas3@o2.pl
 
 
