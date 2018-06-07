@@ -22,7 +22,8 @@ Rozwiązanie
   - LOGOTYP
   ![alt text](https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/32839154_2160417730641283_1789586166413000704_n.jpg?_nc_cat=0&oh=245c4471797736df8532b7c84472d655&oe=5BB94833)
   - DIAGRAM ARCHITEKTURY
-  
+    ![alt text](https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/34537625_2184122508270805_8272397433489588224_n.jpg?_nc_cat=0&oh=57f0cd8c347f9bc5bd95ab59bcd00fdb&oe=5BBAFA42)
+
 Jak to działa 
 ============
 
